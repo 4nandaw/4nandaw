@@ -1,16 +1,16 @@
-### Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+</div>
+    
+---
+    
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Ananda! A Computer Science student from Brazil.
 
-<!--
-**4nandaw/4nandaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🌱 I’m currently studying Computer Science at UFCG
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ananda's GitHub stats](https://github-readme-stats-lyart-mu.vercel.app/api?username=4nandaw&show_icons=true&theme=dark)
