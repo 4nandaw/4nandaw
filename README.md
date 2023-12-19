@@ -26,7 +26,7 @@
   <a href="https://instagram.com/anandaavilar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandaavilar" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ananda-vilar-vidal" target="blank">
+  <a href="www.linkedin.com/in/anandavilarvidal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda-vilar-vidal" height="30" width="40" />
   </a>
 </p>
