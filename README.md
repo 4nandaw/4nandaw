@@ -11,7 +11,7 @@
 
   - 🌱 I’m currently studying Computer Science at UFCG  <img width= 2.5% align="center" alt="ufcg" src="https://www.cdsa.ufcg.edu.br/images/logos/UFCG-Central-Selo-SemFundo.png" />
 
-  - ⚡ I enjoy watching series, as well as reading and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving :).
+  - ⚡ I'm currently working on a web development project at UFCG in partnership with the Architecture and Urbanism course.
 </p>
 
 ---
