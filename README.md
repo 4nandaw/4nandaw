@@ -18,9 +18,9 @@
 
 <!-- Stats -->
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4nandaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4nandaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="10em"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4nandaw&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4nandaw&layout=compact&theme=dark"/>
 </div>
 
 ---
