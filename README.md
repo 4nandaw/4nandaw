@@ -54,3 +54,8 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+<br>
+<br>
+
+[![Profile view](https://visitcount.itsvg.in/api?id=4nandaw&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
