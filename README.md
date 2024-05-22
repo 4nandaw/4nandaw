@@ -17,7 +17,11 @@
 ---
 
 <!-- Stats -->
-![Ananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=4nandaw&show_icons=true&theme=dark)
+<div align="center" style="display: flex; justify-content: space-around;">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4nandaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="10em"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4nandaw&layout=compact&theme=dark"/>
+</div>
 
 ---
 
@@ -31,6 +35,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda-vilar-vidal" height="30" width="40" />
   </a>
 </p>
+
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
