@@ -58,4 +58,4 @@
 <br>
 <br>
 
-[![Profile view](https://visitcount.itsvg.in/api?id=4nandaw&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Profile views](https://visitcount.itsvg.in/api?id=4nandaw&label=Profile%20Views&color=12&icon=5&pretty=false)
