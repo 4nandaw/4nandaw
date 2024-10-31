@@ -10,8 +10,6 @@
   Hi 👋, I'm Ananda! A Computer Science student from Brazil.
 
   - 🌱 I’m currently studying Computer Science at UFCG  <img width= 2.5% align="center" alt="ufcg" src="https://www.cdsa.ufcg.edu.br/images/logos/UFCG-Central-Selo-SemFundo.png" />
-
-  - ⚡ I'm currently working on a web development project at UFCG in partnership with the Architecture and Urbanism course.
 </p>
 
 ---
