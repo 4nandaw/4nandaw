@@ -1,59 +1,76 @@
-<!-- Title -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3500&pause=2000&color=74FF73&center=true&vCenter=true&width=940&height=50&lines=Hello+World!" alt="Hello World!" />
-</a>
-    
----
-    
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Ananda! A Computer Science student from Brazil.
-
-  - 🌱 I’m currently studying Computer Science at UFCG  <img width= 2.5% align="center" alt="ufcg" src="https://www.cdsa.ufcg.edu.br/images/logos/UFCG-Central-Selo-SemFundo.png" />
-</p>
-
----
-
-<!-- Stats -->
-<div align="center" style="display: flex; justify-content: space-around;">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4nandaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="10em"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4nandaw&layout=compact&theme=dark"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=4ADE80&center=true&vCenter=true&width=900&lines=HI,+I'M+ANANDA!;CS+STUDENT+%40+UFCG;"/>
 </div>
 
 ---
 
-<!-- Connect with me --> 
-<h3 align="left">Connect with me:</h3>
+## 👩‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandavilarvidal/)
-[![Gmail](https://img.shields.io/badge/Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananda.vilar.vidal@ccc.ufcg.edu.br)
-[![Instagram](https://img.shields.io/badge/Instagram-9932CC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anandaavilar/)
+```javascript
+const Ananda = {
+  name: "Ananda Vilar Vidal",
+  role: "Software Developer",
+  location: "Paraíba, Brazil 🇧🇷",
+  university: "UFCG",
+  stack: {
+    backend: [
+      "Java",
+      "SpringBoot",
+      "Python"
+    ],
+    frontend: [
+      "React",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    cloud_infra: [
+      "Kubernetes",
+      "Docker"
+    ]
+  }
+}
+```
 
-<!-- Snake -->
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,angular,html,css,kubernetes,docker,git,github,figma,vscode,idea&perline=8"/>
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+<a href="https://github.com/4nandaw">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/anandavilarvidal/">
+<img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ananda.vilar.vidal@ccc.ufcg.edu.br">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nandaw/4nandaw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nandaw/4nandaw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4nandaw/4nandaw/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 ---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+<div align="center">
 
-<br>
-<br>
+<img src="https://komarev.com/ghpvc/?username=4nandaw&style=for-the-badge&color=22C55E"/>
 
-[![](https://visitcount.itsvg.in/api?id=4nandaw&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0a0a0a,50:0f4c3a,100:22c55e"/>
