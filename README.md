@@ -41,6 +41,15 @@ const Ananda = {
 </div>
 
 ---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="165em" src="https://github-stats-extended-frontend-theta-gules.vercel.app/api?username=4nandaw&show_icons=true&theme=dark&hide_border=true&title_color=4ADE80&icon_color=22C55E&text_color=c9d1d9&bg_color=0a0a0a"/>
+<img height="165em" src="https://github-stats-extended-frontend-theta-gules.vercel.app/api/top-langs/?username=4nandaw&layout=compact&theme=dark&hide_border=true&title_color=4ADE80&text_color=c9d1d9&bg_color=0a0a0a"/>
+</div>
+
+---
 
 ## 🌎 Connect With Me
 
